@@ -1,2 +1,5 @@
 # NetOpt
-Just a simple BAT file that optimizes your network by flushing your DNS.
+1. Download the BAT file.
+2. Run it!
+
+Your connection should be faster than before :)
